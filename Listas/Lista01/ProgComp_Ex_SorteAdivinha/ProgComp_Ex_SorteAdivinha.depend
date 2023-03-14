@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1677546552 source:c:\users\user\documents\josé\faculdade_ed_2023\progcomp_ex_sorteadivinha\main.cpp
+	<iostream>
+	<cstdlib>
+	<locale>
+	<time.h>
+	<stdlib.h>
+
+1678142510 source:c:\users\eduar\desktop\faculdade\pc2\cienco-3sem-pc2\listas\lista01\progcomp_ex_sorteadivinha\main.cpp
+	<iostream>
+	<cstdlib>
+	<locale>
+	<time.h>
+	<stdlib.h>
+

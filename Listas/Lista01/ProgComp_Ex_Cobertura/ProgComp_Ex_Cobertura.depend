@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1677545315 source:c:\users\user\documents\josé\faculdade_ed_2023\progcomp_ex_cobertura\main.cpp
+	<iostream>
+	<locale>
+	<stdlib.h>
+

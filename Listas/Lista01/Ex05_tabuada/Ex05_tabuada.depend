@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1678145673 source:c:\users\eduar\desktop\faculdade\pc2\cienco-3sem-pc2\listas\lista01\ex05_tabuada\main.cpp
+	<iostream>
+	<locale>
+	<cstdlib>
+
